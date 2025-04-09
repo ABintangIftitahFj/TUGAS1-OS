@@ -1,0 +1,9 @@
+D:\KULIAH\SEMESTER 4\sistem operasi\tugas 1\pake gui\target\debug\deps\libaccesskit_winit-9f3f33487517cbc4.rmeta: C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\lib.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\platform_impl\mod.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\platform_impl\windows.rs
+
+D:\KULIAH\SEMESTER 4\sistem operasi\tugas 1\pake gui\target\debug\deps\libaccesskit_winit-9f3f33487517cbc4.rlib: C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\lib.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\platform_impl\mod.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\platform_impl\windows.rs
+
+D:\KULIAH\SEMESTER 4\sistem operasi\tugas 1\pake gui\target\debug\deps\accesskit_winit-9f3f33487517cbc4.d: C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\lib.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\platform_impl\mod.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\platform_impl\windows.rs
+
+C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\lib.rs:
+C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\platform_impl\mod.rs:
+C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_winit-0.16.1\src\platform_impl\windows.rs:

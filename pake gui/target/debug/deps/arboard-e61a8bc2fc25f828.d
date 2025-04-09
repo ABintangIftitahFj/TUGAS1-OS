@@ -1,0 +1,10 @@
+D:\KULIAH\SEMESTER 4\sistem operasi\tugas 1\pake gui\target\debug\deps\libarboard-e61a8bc2fc25f828.rmeta: C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\lib.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\common.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\platform\mod.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\platform\windows.rs
+
+D:\KULIAH\SEMESTER 4\sistem operasi\tugas 1\pake gui\target\debug\deps\libarboard-e61a8bc2fc25f828.rlib: C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\lib.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\common.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\platform\mod.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\platform\windows.rs
+
+D:\KULIAH\SEMESTER 4\sistem operasi\tugas 1\pake gui\target\debug\deps\arboard-e61a8bc2fc25f828.d: C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\lib.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\common.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\platform\mod.rs C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\platform\windows.rs
+
+C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\lib.rs:
+C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\common.rs:
+C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\platform\mod.rs:
+C:\Users\bintang\ iftitah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arboard-3.5.0\src\platform\windows.rs:

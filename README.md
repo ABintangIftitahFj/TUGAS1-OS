@@ -85,7 +85,8 @@ Average TAT = 11
 - Perhitungan otomatis metrik performa (waiting time, turnaround time)
 
 ## Screenshot
-![fcfc](https://github.com/user-attachments/assets/f310937e-fea1-438b-bcc2-a83a3c0112cc)
+![Screenshot 2025-04-10 134056](https://github.com/user-attachments/assets/65ed1171-c3dc-4116-af68-62dbef730120)
+
 
 ![Recording 2025-04-09 141651](https://github.com/user-attachments/assets/40a352c7-3a1a-4638-aaef-4b5d7c6d3673)
 

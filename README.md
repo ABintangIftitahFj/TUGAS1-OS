@@ -2,7 +2,7 @@
 
 Aplikasi ini merupakan simulasi algoritma penjadwalan proses **First-Come, First-Served (FCFS)** yang dibuat menggunakan bahasa **Rust** dengan GUI berbasis **eframe/egui**. Aplikasi ini menampilkan proses yang telah dimasukkan oleh pengguna serta visualisasi dalam bentuk **Gantt Chart**.
 
-## Penjelasan Rumus FCFS
+## Penjelasan FCFS
 
 Pada algoritma **FCFS (First-Come, First-Served)**, proses dieksekusi berdasarkan urutan waktu kedatangannya. Aplikasi ini menggunakan rumus-rumus standar berikut untuk menghitung performa dari tiap proses:
 
